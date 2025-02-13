@@ -2,15 +2,12 @@ import 'package:flutter/material.dart';
 import 'package:visionare/CrudBarang.dart';
 import 'package:visionare/Favorite.dart';
 import 'package:visionare/detail.dart';
-import 'SplashScreen.dart';
-import 'LogIn.dart';
-import 'SignUp.dart';
-import 'DashBoard.dart';
-import 'detail.dart';
-import 'CrudBarang.dart';
-import 'Favorite.dart';
-import 'EditProfile.dart';
-import 'Transaksi.dart';
+import 'package:visionare/SplashScreen.dart';
+import 'package:visionare/LogIn.dart';
+import 'package:visionare/SignUp.dart';
+import 'package:visionare/DashBoard.dart';
+import 'package:visionare/EditProfile.dart';
+import 'package:visionare/Transaksi.dart';
 
 void main() {
   runApp(const MyApp());
